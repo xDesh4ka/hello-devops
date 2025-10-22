@@ -468,7 +468,7 @@ Markdown позволяет вставлять HTML, если нужно бол�
 
 ## 📚 **Ссылки на ресурсы**
 
-- ✅ [DevOps-Engineer](https://www.atlassian.com/ru/devops/what-is-devops/devops-engineer
+- ✅ [DevOps-Engineer](https://www.atlassian.com/ru/devops/what-is-devops/devops-engineer)
 - ✅ [Официальное руководство Markdown Guide — Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - ✅ [Официальное руководство Markdown Guide — Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 - ✅ [Markdown Cheatsheet (Краткий справочник)](https://www.markdownguide.org/cheat-sheet/)
